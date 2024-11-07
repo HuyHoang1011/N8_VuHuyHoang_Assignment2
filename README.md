@@ -1,5 +1,5 @@
 Bước 1: Tải Code từ Google Drive
-Truy cập vào đường link Google Drive: (https://drive.google.com/drive/folders/1BM0cwoIGc9Inum50AZw-vgiCGQO0FQfB?fbclid=IwAR2LkLIewRIzrUQI_qsTPbemdoMYcZnqZvFXkRFAsRNfy14MEzQ1SZ61V3A) (thay thế với liên kết thực tế).
+Truy cập vào đường link Google Drive: (https://drive.google.com/drive/folders/1BM0cwoIGc9Inum50AZw-vgiCGQO0FQfB?fbclid=IwAR2LkLIewRIzrUQI_qsTPbemdoMYcZnqZvFXkRFAsRNfy14MEzQ1SZ61V3A)
 Tải toàn bộ mã nguồn của dự án về máy tính của bạn.
 
 
